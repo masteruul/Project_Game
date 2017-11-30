@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PersistableFontDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Letterset>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&amp;()[]|`\/@°+=*$£€&lt;&gt;%</Letterset>
+  <AdjustHeight>0</AdjustHeight>
+  <AdjustWidth>0</AdjustWidth>
+  <SampleText>Loading bentar</SampleText>
+  <ShiftHorz>0</ShiftHorz>
+  <ShiftVert>0</ShiftVert>
+  <ShowGrid>true</ShowGrid>
+  <ShowBoundary>false</ShowBoundary>
+  <Size>48</Size>
+  <StrikeOut>false</StrikeOut>
+  <Underline>false</Underline>
+  <IsFill>true</IsFill>
+  <IsOutlineOne>true</IsOutlineOne>
+  <IsOutlineTwo>true</IsOutlineTwo>
+  <IsShadow>false</IsShadow>
+  <OutlineOneWidth>3</OutlineOneWidth>
+  <OutlineTwoWidth>4</OutlineTwoWidth>
+  <ShadowWidth>1</ShadowWidth>
+  <ShadowOffsetX>1</ShadowOffsetX>
+  <ShadowOffsetY>3</ShadowOffsetY>
+  <FontStyleDisplayName>Medium</FontStyleDisplayName>
+  <Height>54</Height>
+  <Width>53</Width>
+  <FontFamilyName>Eras ITC</FontFamilyName>
+  <FontStyleName>Normal</FontStyleName>
+  <FontStretchName>Normal</FontStretchName>
+  <FontWeightName>Normal</FontWeightName>
+  <FillColourName>#FFFFFFFF</FillColourName>
+  <OutlineOneColourName>#FF000000</OutlineOneColourName>
+  <OutlineTwoColourName>#FF000000</OutlineTwoColourName>
+  <ShadowColourName>#80808080</ShadowColourName>
+  <SampleBackgroundColourName>#00FFFFFF</SampleBackgroundColourName>
+</PersistableFontDetails>
